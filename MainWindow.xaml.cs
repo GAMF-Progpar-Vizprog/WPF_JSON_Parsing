@@ -3,7 +3,7 @@ using System.Linq;
 using System.Text.Json;
 using System.Windows;
 
-namespace JSON_Parsing
+namespace WPF_JSON_Parsing
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml

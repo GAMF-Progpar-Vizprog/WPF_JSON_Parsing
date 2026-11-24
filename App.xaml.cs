@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace JSON_Parsing
+namespace WPF_JSON_Parsing
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
